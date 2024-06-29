@@ -2,7 +2,7 @@
 
 ## About WithSophie.ai
 
-* [Story of WithSophie](story_of_ws.md)
+* [Story of WithSophie](about/story_of_ws.md)
 * [Slogan](slogan.md)
   
 ## Great train
