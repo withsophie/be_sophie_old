@@ -1,4 +1,3 @@
-
-# The story of Think with Sophie
+# Story of WithSophie
 
 May the Sophie be with you!
