@@ -3,9 +3,9 @@
 ## About
 
 * [Story of WithSophie](about/story_of_ws.md)
-* [Slogan](slogan.md)
+* [Slogans](about/slogans.md)
   
 ## Great Thinking
 
-* [读书要洞悉作者的用意](README.md)
+* [读书要洞悉作者的用意](think/reading_understand_author_intention.md)
 
