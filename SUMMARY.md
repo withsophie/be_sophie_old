@@ -1,15 +1,15 @@
 # Table of contents
 
-## About
+* [LANGS](README.md)
 
-* [Story of WithSophie](README.md)
-  * [Why do I want to create WithSophie](about/story\_of\_ws/why-do-i-want-to-create-withsophie.md)
-* [Vision and Slogans](about/slogans.md)
+## en
+
+* [Story of WithSophie](en/readme/README.md)
+  * [Why do I want to create WithSophie](en/readme/why-do-i-want-to-create-withsophie.md)
+* [Vision and Slogans](en/slogans.md)
 
 ## Great Thinking
 
 * [Reading Should Aim to Understand the Author’s Intent](think/reading\_understand\_author\_intention.md)
 
-***
-
-* [LANGS](langs.md)
+## About

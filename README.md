@@ -1,3 +1,6 @@
-# Story of WithSophie
+# LANGS
 
-May the Sophie be with you!
+```
+* [英语](en/)
+* [中文](zh/)
+```
