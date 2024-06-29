@@ -9,3 +9,7 @@
 ## Great Thinking
 
 * [Reading Should Aim to Understand the Author’s Intent](think/reading\_understand\_author\_intention.md)
+
+***
+
+* [LANGS](langs.md)
