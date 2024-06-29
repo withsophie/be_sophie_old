@@ -8,4 +8,4 @@
 
 ## Great Thinking
 
-* [读书要洞悉作者的用意](think/reading\_understand\_author\_intention.md)
+* [Reading Should Aim to Understand the Author’s Intent](think/reading\_understand\_author\_intention.md)
