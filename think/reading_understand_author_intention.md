@@ -1,3 +1,15 @@
+# Reading Should Aim to Understand the Author’s Intent
+
+Many times, when we read, we do not consider the author’s intent, which can result in a lot of futile effort and even misinterpretation of the author’s original meaning. Therefore, before reading, it is very meaningful to fully understand the author’s writing motivation.
+
+For example, nowadays many people use the teachings of Confucius and Mencius to improve their personal cultivation. Many scholars even explain the Analects and Mencius to ordinary people and children. However, if we delve into the original intent behind Confucius and Mencius writing these books, the content may not necessarily be suitable for the general public.
+
+Confucius and Mencius, as representatives of the pre-Qin philosophers, wrote their books to sell their ideas on governance and statecraft to the rulers of their time. Therefore, much of the content is considered from the perspective of the rulers. If this perspective is ignored, some content might seem to be not in the interest of the common people. This is similar to a situation where a teacher’s reference answers are leaked to students before an exam, which is quite awkward. How did later scholars resolve this awkward situation? They could only reinterpret the texts.
+
+Let’s take a specific example. The phrase “A man must be resolute and the words he speaks must be trustworthy,” often quoted from Confucius, is followed by another phrase “Such a man is a petty person” (Analects - Zilu). It means that being resolute and trustworthy is only required of petty people. But why is this only required of petty people? Confucius did not explain. Considering his intent for writing, it becomes easier to understand. He was telling the king to cultivate this quality of being resolute and trustworthy among the common people. No need for further explanation; the king would naturally get the benefit. Mencius, Confucius’s successor, spoke even more bluntly on this matter: “The superior man does not necessarily have to keep his promises or see his actions through to the end. Only righteousness matters” (Mencius - Li Lou II). Mencius believed that as long as it aligns with righteousness, a gentleman can lie and deceive. This was clear even to the foolish King Hui of Liang. Readers interested can see how later scholars tried to embellish Mencius’s words. Thus, reading without understanding the author’s writing motivation and spreading it as universal wisdom can cause great trouble.
+
+I have written an excellent approach on WS, which analyzes selected chapters for readers based on the author’s intent, providing users with a new perspective on reading.
+
 # 读书要洞悉作者的用意
 
 很多时候，我们读书时完全没有考虑作者的用意，这会造成很多的无用功，甚至会曲解作者的本意，所以在阅读之前，如何充分了解作者的写作动机，也是非常有意义的事情。
