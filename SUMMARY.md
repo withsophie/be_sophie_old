@@ -4,7 +4,7 @@
 
 * [Story of WithSophie](README.md)
   * [Why do I want to create WithSophie](about/story\_of\_ws/why-do-i-want-to-create-withsophie.md)
-* [Slogans](about/slogans.md)
+* [Vision and Slogans](about/slogans.md)
 
 ## Great Thinking
 
