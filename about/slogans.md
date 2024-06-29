@@ -1,4 +1,7 @@
-# May the sophie be with you.
+
+[![May the sophie be with you](../img/slogan_social.png)](think.withsophie.ai)
+
+> **We and you inspire human thinking to be more diverse and profound with Sophie.**
 
 ## About curiosity
   
