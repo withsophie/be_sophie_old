@@ -2,6 +2,8 @@
 
 > Ryan @ May 2022
 
+![New Magellan Project](/img/new_magellan_project.jpeg)
+
 On the scale of the universe, there exists a labyrinth. This gigantic labyrinth, with a diameter of 17 billion light-years, holds the ultimate secrets of the universe on a planet with a mere radius of 100,000 kilometers. Humanity has no clues on how to find this planet.
 
 Firstly, the biggest challenge is whether this planet and the ultimate truth it holds even exist. This premise might be purely fictional, yet there’s no way to prove or disprove it. Therefore, we can only name this hypothesis “faith.”
