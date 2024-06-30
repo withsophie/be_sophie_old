@@ -10,3 +10,4 @@
     * [The Wisdom of Eternal Life, the Knowledge of Eternal Life](en/think/eternal\_wisdom\_knowledge.md)
     * [The New Magellan Project](en/think/new\_magellan\_project.md)
     * [Reading Should Aim to Understand the Author’s Intent](en/think/reading\_understand\_author\_intention.md)
+* [EN](en-1.md)
