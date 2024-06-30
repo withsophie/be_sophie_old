@@ -12,5 +12,6 @@
 
 * [Reading Should Aim to Understand the Author’s Intent](think/reading\_understand\_author\_intention.md)
 * [The New Magellan Project](think/new_magellan_project.md)
+* [The Wisdom of Eternal Life, the Knowledge of Eternal Life](think/eternal_wisdom_knowledge.md)
 
 ## About
