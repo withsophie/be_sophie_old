@@ -1,7 +1,7 @@
 # Table of contents
 
 * [Vision and Slogans](README.md)
-* [en](en/README.md)
+* [English](en/README.md)
   * [Story of WithSophie](en/readme/README.md)
     * [Why do I want to create WithSophie](en/readme/why-do-i-want-to-create-withsophie.md)
   * [think](en/think/README.md)
