@@ -8,7 +8,7 @@
     * [The Wisdom of Eternal Life, the Knowledge of Eternal Life](en/think/eternal\_wisdom\_knowledge.md)
     * [The New Magellan Project](en/think/new\_magellan\_project.md)
     * [Reading Should Aim to Understand the Author’s Intent](en/think/reading\_understand\_author\_intention.md)
-* [zh](zh/README.md)
+* [中文](zh/README.md)
   * [WithSophie的故事](zh/readme/README.md)
     * [为什么我想创造WithSophie](zh/readme/why-do-i-want-to-create-withsophie.md)
   * [我思](zh/think/README.md)
