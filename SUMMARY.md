@@ -11,5 +11,6 @@
 ## Great Thinking
 
 * [Reading Should Aim to Understand the Author’s Intent](think/reading\_understand\_author\_intention.md)
+* [The New Magellan Project](think/new_magellan_project.md)
 
 ## About
