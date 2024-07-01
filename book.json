@@ -1,7 +1,12 @@
 {
     "plugins": [
         "language-picker",
-        "mind-maps"
-
-    ]
+        "splitter"
+ ],
+   
+    }, "pluginsConfig": {
+        "theme-default": {
+            "showLevel": false
+        }
+    }
 }
