@@ -4,7 +4,7 @@
         "splitter"
  ],
    
-    }, "pluginsConfig": {
+     "pluginsConfig": {
         "theme-default": {
             "showLevel": false
         }
