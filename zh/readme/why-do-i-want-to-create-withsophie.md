@@ -11,5 +11,14 @@ WithSophie 的目标是让人们拥有一个更好的能表达和记录自己复
 这也是我们对“With Sophies，be a Sophie” 的诠释。
 对我这样一个虚无主义者来说，也许这个世界全部都是虚无的，但是我们让这个世界变得更好一点的努力，是实实在在存在的。
 
+```mind:height=300,title=a mind map of something,color
+# 1
+## 1.1
+### 1.1.1
+## 1.2
+# 2
+# 3
+```
+
 
 
