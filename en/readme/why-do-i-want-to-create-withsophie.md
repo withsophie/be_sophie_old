@@ -14,11 +14,16 @@ It wasn't until I combined these abstract questions with concrete issues that it
 
 With AI's assistance, we can comprehend more theories, akin to having the intellectual elites who proposed these ideas accompany us in solving problems and growing alongside us. This is the inspiration behind the inception of With Sophie. I aspire to find a way to compress and preserve the essence of human theories, making them easily retrievable and applicable to specific problems with the assistance of AI. In the past, these methods of compressing human knowledge might have taken the form of a book, a paper, a formula, or a piece of code. Today, however, it could be a highly condensed string of natural language that encapsulates logical steps and can be seamlessly integrated with practical issues.
 
-The creation of WithSophie has been influenced by numerous theories and products. The Theory of Thought Chains convinced me that reasoning through simple problems is equivalent to AI prediction. Yejin Choi's experiments with high-quality data training significantly boosted my confidence in the feasibility of compression. The practical applications of LangGraph,Dify and Cozi in the DevOps field of AI products have greatly enhanced our interactive experience.
+The creation of WithSophie has been influenced by numerous theories and products.&#x20;
+
+The Theory of Thought Chains convinced me that reasoning through simple problems is equivalent to AI prediction.&#x20;
+
+Yejin Choi's experiments with high-quality data training significantly boosted my confidence in the feasibility of compression.&#x20;
+
+The practical applications of LangGraph,Dify and Cozi in the DevOps field of AI products have greatly enhanced our interactive experience.
 
 WithSophie aims to provide a better tool for people to express and record their complex thoughts, and a platform where they can share and discuss these thoughts. All of this requires Sophie's involvement, and everything we do in the process transforms us into Sophie.
 
 This is our interpretation of "With Sophies, be a Sophie."
 
 As a nihilist, perhaps I see the world as inherently meaningless, but our efforts to make it a little better are undeniably real.
-
